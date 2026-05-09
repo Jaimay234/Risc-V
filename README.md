@@ -19,3 +19,8 @@ Only ALU is partially completed
 ALU
 - Multiplication and division features (increasing the add_sub variable size to 2 bits rather than 1)
 - Pipelining with registers and forwarding
+
+
+
+## Citations
+https://www.seas.upenn.edu/~cis2400/24fa/notes/riscv_encoding.pdf 
